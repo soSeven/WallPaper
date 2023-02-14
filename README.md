@@ -44,7 +44,7 @@ git clone & pod install
     pod 'FCUUID'
     pod 'MBProgressHUD'
     pod 'YYText'
-#    pod "Texture"
+    pod "Texture"
     pod 'SwiftDate'
     pod 'SwiftEntryKit'
     pod "SwiftPhoneNumberFormatter"
@@ -55,9 +55,9 @@ git clone & pod install
 # Auto Layout
     pod 'SnapKit'  # https://github.com/SnapKit/SnapKit
 # Code Quality
-#    pod 'FLEX', '~> 4.0'  # https://github.com/Flipboard/FLEX
+    pod 'FLEX', '~> 4.0'  # https://github.com/Flipboard/FLEX
     pod 'SwifterSwift', '~> 5.0'  # https://github.com/SwifterSwift/SwifterSwift
-    pod 'BonMot', '~> 5.0'  # https://github.com/Rightpoint/BonMot
+#    pod 'BonMot', '~> 5.0'  # https://github.com/Rightpoint/BonMot
     pod 'FileKit'
 # 依赖
     pod 'Swinject'
@@ -74,23 +74,6 @@ git clone & pod install
     pod 'UMCShare/Social/ReducedWeChat'
     pod 'UMCShare/Social/ReducedQQ'
     pod 'UMCShare/Social/ReducedSina'
-    pod 'UMCSecurityPlugins'
-# 地图
-#    pod 'AMap3DMap' #3D地图SDK
-    pod 'AMap2DMap' #2D地图SDK
-    pod 'AMapSearch'
-    pod 'AMapLocation'
-    
-    pod 'Permission/Camera'
-    pod 'Permission/Notifications'
-    pod 'Permission/Location'
-    
-    pod 'SwiftyStoreKit'
-    
-    
-    pod 'YPImagePicker'
-    pod 'Onboard'
-    pod 'DeviceKit'
 ```
 
 ## License
