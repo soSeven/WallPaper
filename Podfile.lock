@@ -1,0 +1,360 @@
+PODS:
+  - Alamofire (5.1.0)
+  - CryptoSwift (1.3.1)
+  - Differentiator (4.0.1)
+  - DropDown (2.3.13)
+  - DZNEmptyDataSet (1.8.1)
+  - FCUUID (1.3.1):
+    - UICKeyChainStore (~> 2.1.0)
+  - FileKit (5.2.0)
+  - FLEX (4.1.1)
+  - FloatingPanel (1.7.4)
+  - FSPagerView (0.8.3)
+  - HBDNavigationBar (1.7.5)
+  - Hero (1.5.0)
+  - Hue (5.0.0)
+  - ImageSlideshow/Core (1.8.3)
+  - ImageSlideshow/Kingfisher (1.8.3):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - KafkaRefresh (1.4.8):
+    - KafkaRefresh/Category (= 1.4.8)
+    - KafkaRefresh/Configuration (= 1.4.8)
+    - KafkaRefresh/Core (= 1.4.8)
+    - KafkaRefresh/Default (= 1.4.8)
+    - KafkaRefresh/Style (= 1.4.8)
+    - KafkaRefresh/UIKit (= 1.4.8)
+  - KafkaRefresh/Category (1.4.8)
+  - KafkaRefresh/Configuration (1.4.8):
+    - KafkaRefresh/UIKit/FootKit
+    - KafkaRefresh/UIKit/HeadKit
+  - KafkaRefresh/Core (1.4.8):
+    - KafkaRefresh/Category
+  - KafkaRefresh/Default (1.4.8):
+    - KafkaRefresh/Style
+  - KafkaRefresh/Style (1.4.8)
+  - KafkaRefresh/UIKit (1.4.8):
+    - KafkaRefresh/UIKit/FootKit (= 1.4.8)
+    - KafkaRefresh/UIKit/HeadKit (= 1.4.8)
+    - KafkaRefresh/UIKit/LayerKit (= 1.4.8)
+  - KafkaRefresh/UIKit/FootKit (1.4.8):
+    - KafkaRefresh/Category
+    - KafkaRefresh/Core
+    - KafkaRefresh/Default
+    - KafkaRefresh/Style
+    - KafkaRefresh/UIKit/LayerKit
+  - KafkaRefresh/UIKit/HeadKit (1.4.8):
+    - KafkaRefresh/Category
+    - KafkaRefresh/Core
+    - KafkaRefresh/Default
+    - KafkaRefresh/Style
+    - KafkaRefresh/UIKit/LayerKit
+  - KafkaRefresh/UIKit/LayerKit (1.4.8):
+    - KafkaRefresh/Category
+    - KafkaRefresh/Default
+  - Kingfisher (5.13.3):
+    - Kingfisher/Core (= 5.13.3)
+  - Kingfisher/Core (5.13.3)
+  - Localize-Swift (3.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.4.1)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - "NSObject+Rx (5.0.2)":
+    - RxSwift (~> 5.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - PINCache (3.0.3):
+    - PINCache/Arc-exception-safe (= 3.0.3)
+    - PINCache/Core (= 3.0.3)
+  - PINCache/Arc-exception-safe (3.0.3):
+    - PINCache/Core
+  - PINCache/Core (3.0.3):
+    - PINOperation (~> 1.2.1)
+  - PINOperation (1.2.1)
+  - PINRemoteImage/Core (3.0.3):
+    - PINOperation
+  - PINRemoteImage/iOS (3.0.3):
+    - PINRemoteImage/Core
+  - PINRemoteImage/PINCache (3.0.3):
+    - PINCache (~> 3.0.3)
+    - PINRemoteImage/Core
+  - QuickLayout (3.0.0)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxGesture (3.0.2):
+    - RxCocoa (~> 5.1)
+    - RxSwift (~> 5.1)
+  - RxOptional (4.1.0):
+    - RxCocoa (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - RxSwiftExt (5.2.0):
+    - RxSwiftExt/Core (= 5.2.0)
+    - RxSwiftExt/RxCocoa (= 5.2.0)
+  - RxSwiftExt/Core (5.2.0):
+    - RxSwift (~> 5.0)
+  - RxSwiftExt/RxCocoa (5.2.0):
+    - RxCocoa (~> 5.0)
+    - RxSwiftExt/Core
+  - RxTheme (4.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxViewController (1.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - SnapKit (5.0.1)
+  - SwiftDate (6.1.0)
+  - SwiftEntryKit (1.2.3):
+    - QuickLayout (= 3.0.0)
+  - SwifterSwift (5.2.0):
+    - SwifterSwift/AppKit (= 5.2.0)
+    - SwifterSwift/CoreAnimation (= 5.2.0)
+    - SwifterSwift/CoreGraphics (= 5.2.0)
+    - SwifterSwift/CoreLocation (= 5.2.0)
+    - SwifterSwift/Dispatch (= 5.2.0)
+    - SwifterSwift/Foundation (= 5.2.0)
+    - SwifterSwift/MapKit (= 5.2.0)
+    - SwifterSwift/SceneKit (= 5.2.0)
+    - SwifterSwift/SpriteKit (= 5.2.0)
+    - SwifterSwift/StoreKit (= 5.2.0)
+    - SwifterSwift/SwiftStdlib (= 5.2.0)
+    - SwifterSwift/UIKit (= 5.2.0)
+  - SwifterSwift/AppKit (5.2.0)
+  - SwifterSwift/CoreAnimation (5.2.0)
+  - SwifterSwift/CoreGraphics (5.2.0)
+  - SwifterSwift/CoreLocation (5.2.0)
+  - SwifterSwift/Dispatch (5.2.0)
+  - SwifterSwift/Foundation (5.2.0)
+  - SwifterSwift/MapKit (5.2.0)
+  - SwifterSwift/SceneKit (5.2.0)
+  - SwifterSwift/SpriteKit (5.2.0)
+  - SwifterSwift/StoreKit (5.2.0)
+  - SwifterSwift/SwiftStdlib (5.2.0)
+  - SwifterSwift/UIKit (5.2.0)
+  - SwiftPhoneNumberFormatter (1.5)
+  - SwiftyJSON (5.0.0)
+  - Swinject (2.7.1)
+  - Texture (3.0.0):
+    - Texture/AssetsLibrary (= 3.0.0)
+    - Texture/Core (= 3.0.0)
+    - Texture/MapKit (= 3.0.0)
+    - Texture/Photos (= 3.0.0)
+    - Texture/PINRemoteImage (= 3.0.0)
+    - Texture/Video (= 3.0.0)
+  - Texture/AssetsLibrary (3.0.0):
+    - Texture/Core
+  - Texture/Core (3.0.0)
+  - Texture/MapKit (3.0.0):
+    - Texture/Core
+  - Texture/Photos (3.0.0):
+    - Texture/Core
+  - Texture/PINRemoteImage (3.0.0):
+    - PINRemoteImage/iOS (~> 3.0.0)
+    - PINRemoteImage/PINCache
+    - Texture/Core
+  - Texture/Video (3.0.0):
+    - Texture/Core
+  - Toast-Swift (5.0.1)
+  - UICKeyChainStore (2.1.2)
+  - UMCAnalytics (6.1.0):
+    - UMCCommon
+  - UMCCommon (2.1.4)
+  - UMCCommonLog (1.0.0)
+  - UMCPush (3.2.4):
+    - UMCCommon
+  - UMCShare/Core (6.9.8):
+    - UMCCommon
+  - UMCShare/Social/ReducedQQ (6.9.8):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedSina (6.9.8):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.8):
+    - UMCCommon
+    - UMCShare/Core
+  - WhatsNewKit (1.3.1)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - DropDown (~> 2.0)
+  - DZNEmptyDataSet
+  - FCUUID
+  - FileKit
+  - FLEX (~> 4.0)
+  - FloatingPanel (~> 1.0)
+  - FSPagerView
+  - HBDNavigationBar (~> 1.7.5)
+  - Hero
+  - Hue
+  - ImageSlideshow/Kingfisher
+  - IQKeyboardManagerSwift (~> 6.0)
+  - KafkaRefresh (~> 1.0)
+  - Kingfisher
+  - Localize-Swift (~> 3.0)
+  - MBProgressHUD
+  - MJRefresh
+  - Moya/RxSwift
+  - "NSObject+Rx (~> 5.0)"
+  - NVActivityIndicatorView (~> 4.0)
+  - Reusable
+  - RxDataSources (~> 4.0)
+  - RxGesture (~> 3.0)
+  - RxOptional (~> 4.0)
+  - RxSwiftExt (~> 5.0)
+  - RxTheme (~> 4.0)
+  - RxViewController (~> 1.0)
+  - SnapKit
+  - SwiftDate
+  - SwiftEntryKit
+  - SwifterSwift (~> 5.0)
+  - SwiftPhoneNumberFormatter
+  - SwiftyJSON
+  - Swinject
+  - Texture
+  - Toast-Swift (~> 5.0)
+  - UMCAnalytics
+  - UMCCommon
+  - UMCCommonLog
+  - UMCPush
+  - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedSina
+  - UMCShare/Social/ReducedWeChat
+  - WhatsNewKit (~> 1.0)
+  - YYText
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - Differentiator
+    - DropDown
+    - DZNEmptyDataSet
+    - FCUUID
+    - FileKit
+    - FLEX
+    - FloatingPanel
+    - FSPagerView
+    - HBDNavigationBar
+    - Hero
+    - Hue
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - KafkaRefresh
+    - Kingfisher
+    - Localize-Swift
+    - MBProgressHUD
+    - MJRefresh
+    - Moya
+    - "NSObject+Rx"
+    - NVActivityIndicatorView
+    - PINCache
+    - PINOperation
+    - PINRemoteImage
+    - QuickLayout
+    - Reusable
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxOptional
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - RxTheme
+    - RxViewController
+    - SnapKit
+    - SwiftDate
+    - SwiftEntryKit
+    - SwifterSwift
+    - SwiftPhoneNumberFormatter
+    - SwiftyJSON
+    - Swinject
+    - Texture
+    - Toast-Swift
+    - UICKeyChainStore
+    - UMCAnalytics
+    - UMCCommon
+    - UMCCommonLog
+    - UMCPush
+    - UMCShare
+    - WhatsNewKit
+    - YYText
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  CryptoSwift: f12f037f6d0fcd6d48c96db0071b653de64e6c4d
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FCUUID: bb054fc90cd7cd99320f9f6ff8e130fe607fba05
+  FileKit: 10bfd8a3023a0b09f24c9f49546cbbddf43fd464
+  FLEX: 81096107977a09836eb440173010ceeef01105d6
+  FloatingPanel: 3c9d0e30fe350e1613157557769d2ec97f76b96b
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  HBDNavigationBar: e802e7abf53c835abe7325aca9e6cff73ebe931d
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  KafkaRefresh: aaae4ff23197f2ef38b6b22ca320740beac4bbb4
+  Kingfisher: d2b3d6a7200c93b34de9afcdf25c8dd9282ec277
+  Localize-Swift: 4bed4f0ccac8be2ec3517ee359da80ba2adb0fae
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 3153c59a363159092c08b2177ec3a7d09f90bfaf
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  "NSObject+Rx": 2eb2cf51fd1c554118449a7fbc36e4cd620b9e94
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  PINCache: 7a8fc1a691173d21dbddbf86cd515de6efa55086
+  PINOperation: 00c935935f1e8cf0d1e2d6b542e75b88fc3e5e20
+  PINRemoteImage: f1295b29f8c5e640e25335a1b2bd9d805171bd01
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxGesture: d6bd7447ca3a596c7a9702a6a2b6a2bb5d8bae54
+  RxOptional: b1fcd60856807a564c0215c2184b8d33e7826dc2
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  RxSwiftExt: 4ca80336f43c28f11a2825cdd2fc61dd6c044697
+  RxTheme: 0b642f47c7d197a803c6b9c083964188c34f7ddb
+  RxViewController: 7330a46e5c31cd680db169da4c9fc8676e975a81
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftDate: fa2bb3962056bb44047b4b85a30044e5eae30b03
+  SwiftEntryKit: 340713c2e4a6662c5149629990bf1088bf5f0389
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+  SwiftPhoneNumberFormatter: 0cc91f4daa06dd606a9defb21048a75c36a771a2
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  Texture: 2f109e937850d94d1d07232041c9c7313ccddb81
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  UICKeyChainStore: 85db518bb1d294366d15ec9b92a416c4e670518f
+  UMCAnalytics: 3503f179f7af932b30af9ac161ac11fb48fa72b6
+  UMCCommon: b0703b0053323f598e01670ea702b8eb1e66e611
+  UMCCommonLog: 05a2d5de21858e3d870551562cff405c1366d244
+  UMCPush: 1edd856027dcf905333effb4040ace5d236a7316
+  UMCShare: a250203b34a56cde25cc4c28335449b542f0255d
+  WhatsNewKit: fc8ca82510148c030d66b3bb9b937175f8dcb3fd
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: a95b086637cefe089ee75f1cb39e15368f9ed407
+
+COCOAPODS: 1.11.2
